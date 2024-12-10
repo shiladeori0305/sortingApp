@@ -1,0 +1,40 @@
+.array-container {
+    position: absolute; /* Change from absolute to relative */
+    left: 100px;
+    top: 50PX; /* Optional: Uncomment if you need some vertical space */
+    /*height: 600px; /* Add a height for the container to hold the bars */
+  }
+  
+  .array-bar {
+    width: 2px;
+    background-color: turquoise;
+    display: inline-block;
+    margin: 0 1px; /* Fix margin to be a proper number */
+  }
+  .buttons-container {
+    position: absolute;
+    top: 0; /* Position the buttons right at the top of the viewport */
+    width: 100%; /* Ensure the buttons container spans the full width */
+    display: flex; /* Align the buttons horizontally */
+    justify-content: center; /* Optional: If you want to center buttons within the container */
+    padding: 10px 0; /* Add some padding around the buttons */
+  }
+  button {
+    padding: 15px 30px; /* Increase padding to make buttons bigger */
+    font-size: 18px; /* Increase the text size */
+    background-color: #9400D3; /* Set background color to blue */
+    color: white; /* Set text color to white */
+    border: none; /* Remove border */
+    border-radius: 50px; /* Rounded corners */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    margin: 5px; /* Add space between buttons */
+  }
+  
+  button:hover {
+    background-color: #D8BFD8; /* Darker blue on hover */
+    color:whitesmoke;
+  }
+  
+  
+  
+  
