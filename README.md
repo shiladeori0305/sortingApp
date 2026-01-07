@@ -35,6 +35,9 @@ Smooth animations to show merging steps
 
 The final sorted array is displayed visually.
 
+
+![Screenshot 2024-12-11 014442](https://github.com/user-attachments/assets/9b290719-b6fe-4edc-aa09-b6754cab43fd)
+![Screenshot 2024-12-11 014428](https://github.com/user-attachments/assets/43bfc6b4-04d1-40aa-8a7a-6dd55ef3f69b)
 🛠️ Technologies Used
 
 Frontend: React
@@ -54,5 +57,3 @@ Visualizing algorithm behavior
 Interview preparation
 
 Data Structures & Algorithms practice
-![Screenshot 2024-12-11 014442](https://github.com/user-attachments/assets/9b290719-b6fe-4edc-aa09-b6754cab43fd)
-![Screenshot 2024-12-11 014428](https://github.com/user-attachments/assets/43bfc6b4-04d1-40aa-8a7a-6dd55ef3f69b)
